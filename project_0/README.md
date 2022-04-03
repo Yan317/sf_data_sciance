@@ -6,7 +6,7 @@
 [3. Краткая информация о данных](https://github.com/Yan317/sf_data_sciance/tree/main/project_0#Краткая-информация-о-данных)
 [4. Этапы работы над проектом](https://github.com/Yan317/sf_data_sciance/tree/main/project_0#Этапы-работы-над-проектом)
 [5. Результаты](https://github.com/Yan317/sf_data_sciance/tree/main/project_0#Результаты)
-[6. Выводы](Выводы)
+[6. Выводы](https://github.com/Yan317/sf_data_sciance/tree/main/project_0#Выводы)
 
 ### Описание проетка
 Угадать загаданное компьютером число за минимальное число попыток.
