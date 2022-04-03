@@ -2,10 +2,15 @@
 
 ## Оглавление
 [1. Описание проетк](https://github.com/Yan317/sf_data_sciance/tree/main/project_0#Описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/Yan317/sf_data_sciance/tree/main/project_0#Какой-кейс=решаем)
+
 [3. Краткая информация о данных](https://github.com/Yan317/sf_data_sciance/tree/main/project_0#Краткая-информация-о-данных)
+
 [4. Этапы работы над проектом](https://github.com/Yan317/sf_data_sciance/tree/main/project_0#Этапы-работы-над-проектом)
+
 [5. Результаты](https://github.com/Yan317/sf_data_sciance/tree/main/project_0#Результаты)
+
 [6. Выводы](https://github.com/Yan317/sf_data_sciance/tree/main/project_0#Выводы)
 
 ### Описание проетка
